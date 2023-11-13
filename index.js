@@ -1,0 +1,1 @@
+document.querySelector("body > main > div.position-relative.overflow-hidden.p-3.p-md-5.m-md-3.text-center.bg-body-tertiary > div.product-device.product-device-2.shadow-sm.d-none.d-md-block")
